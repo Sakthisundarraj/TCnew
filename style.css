@@ -76,7 +76,7 @@ color:#D32F2F;
     /* background-color:#7B0024; */
     padding-top: 130px;
     padding-bottom: 100px;
-    background-image: linear-gradient(rgb(65, 40, 4),rgba(223, 146, 83, 0.6),rgba(83, 59, 14, 0.6)),url(./assets/images/herobg.jpeg);
+    background-image: linear-gradient(rgb(65, 40, 4),rgba(223, 146, 83, 0.6),rgba(83, 59, 14, 0.6)),url(./assets/images/bg.jpeg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size:cover;
